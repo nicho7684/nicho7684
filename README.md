@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Niko 👋</h1>
 
 <p align="center">
-I'm an IT student  and an Arch Linux enthusiast 🐧 I use this GitHub to document my Linux setups, coursework projects,and the apps I'm building along the way also learning more abt code and more improvements through mistakes. Always happy to get feedback or code reviews that help me grow 🚀
+I'm an IT student and an Arch Linux enthusiast 🐧 I use this GitHub to document my Linux setups, coursework projects,and the apps I'm building along the way also learning more abt code and more improvements through mistakes. Always happy to get feedback or code reviews that help me grow 🚀
 </p>
 
 <p align="center">
@@ -61,5 +61,5 @@ Check out the pinned repositories below for my best work — including a Java OO
 ---
 
 <p align="center">
-<sub>Currently learning: networking fundamentals · self-hosting · Wayland window management</sub>
+<img src="assets/img.jpg" width="1000" height="400"/>
 </p>
