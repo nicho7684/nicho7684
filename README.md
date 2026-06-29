@@ -1,6 +1,9 @@
 <p align="center">
 <img src="assets/Bruno Pixels.gif" width="1000" height="500">
 </p>
+<p align="center">
+<img src="assets/name.png" width="1000" height="500">
+</p>
 <h1 align="center">Hi, I'm Niko </h1>
 
 <p align="center">
