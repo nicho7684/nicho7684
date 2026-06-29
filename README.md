@@ -5,12 +5,12 @@
 <img src="assets/name.png" width="900" height="400">
 </p>
 <p align="center">
-I'm an IT student and an Arch Linux enthusiast 🐧 I use this GitHub to document my Linux setups, coursework projects,and the apps I'm building along the way also learning more abt code and more improvements through mistakes. Always happy to get feedback or code reviews that help me grow 🚀
+I'm an IT student and an Arch Linux enthusiast 🐧 I use this GitHub to document my Linux setups, coursework projects, and the apps I'm building along the way also learning more abt code and more improvements through mistakes. Always happy to get feedback or code reviews that help me grow 🚀
 </p>
 
 <p align="center">
   <a href="https://nicho7684.github.io/"><img src="https://img.shields.io/badge/portfolio-2dd4bf?style=flat-square&logo=googlechrome&logoColor=white" width="200" height="50"/></a>
-  <a href="mailto:nicholasgyuzi18@gmail.com"><img src="https://img.shields.io/badge/email-2dd4bf?style=flat-square&logo=gmail&logoColor=white" width="200" height="50"/></a>
+  <a href="mailto:nicholasgyuzi18@gmail.com"><img src="https://img.shields.io/badge/email-2dd4bf?style=flat-square&logo=gmail&logoColor=white" width="150" height="50"/></a>
   <a href="https://linkedin.com/in/nicholas-emmanuel-94211b3a8"><img src="https://img.shields.io/badge/linkedin-2dd4bf?style=flat-square&logo=linkedin&logoColor=white" width="200" height="50"/></a>
 </p>
 
