@@ -1,7 +1,7 @@
 <p align="center">
 <img src="assets/Bruno Pixels.gif" width="1000" height="500">
 </p>
-<h1 align="center">Hi, I'm Niko 👋</h1>
+<h1 align="center">Hi, I'm Niko </h1>
 
 <p align="center">
 I'm an IT student and an Arch Linux enthusiast 🐧 I use this GitHub to document my Linux setups, coursework projects,and the apps I'm building along the way also learning more abt code and more improvements through mistakes. Always happy to get feedback or code reviews that help me grow 🚀
