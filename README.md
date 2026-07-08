@@ -22,7 +22,7 @@ Information Technology student with an interest in systems administration, netwo
 - 🐧 Running Arch Linux with Hyprland, deep in dotfiles and Wayland configuration
 - 🌐 Interested in self-hosting, homelab setups (Proxmox, Docker), and networking fundamentals
 - 💡 Currently exploring a side project called **Accountable** — a human-to-human accountability app
-- 📱other projects include web and App development projects,hardware maintenance 
+- 📱 other projects include web and App development projects,hardware maintenance 
 - 📍 Based in Dar es Salaam, Tanzania
 
 ### Tech stack
@@ -51,8 +51,8 @@ Information Technology student with an interest in systems administration, netwo
 - 🔧 planning on Setting up a homelab with Proxmox and self-hosted services
 - 📡 Practicing network design — subnetting, router configuration, IP addressing
 - 🛠️ Polishing my Hyprland/Niri rice on Archlinux and dotfiles
-- 📱 Validating the Accountable app concept
-
+- 📱 Validating app and web development
+  
 ### Pinned projects (comming soon)
 
 Check out the pinned repositories below for my best work — including a Java OOP payroll system, my Arch Linux dotfiles, and ongoing networking labs.
