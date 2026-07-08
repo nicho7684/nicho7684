@@ -5,7 +5,7 @@
 <img src="assets/name.png" width="700" height="300">
 </p>
 <p align="center">
-I'm an IT student and an Arch Linux enthusiast 🐧 I use this GitHub to document my Linux setups, coursework projects, and the apps I'm building along the way also learning more abt code and more improvements through mistakes. Always happy to get feedback or code reviews that help me grow 🚀
+Information Technology student with an interest in systems administration, networking, and application development. This profile documents academic and  personal projects, independent technical work, and continued skill development. Constructive feedback and code reviews are welcome.
 </p>
 
 <p align="center">
