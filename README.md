@@ -22,7 +22,7 @@ Information Technology student with an interest in systems administration, netwo
 - 🐧 Running Arch Linux with Hyprland, deep in dotfiles and Wayland configuration
 - 🌐 Interested in self-hosting, homelab setups (Proxmox, Docker), and networking fundamentals
 - 💡 working on a collaborative project with a friend called Willem.
-- 📱 Other projects include web and App development projects,hardware maintenance 
+- 📱 Other projects include web and App development projects,hardware maintenance and intergration
 - 📍 Based in Dar es Salaam, Tanzania
 
 ### Tech stack
