@@ -5,7 +5,7 @@
 <img src="assets/name.png" width="700" height="300">
 </p>
 <p align="center">
-Information Technology student with an interest in systems administration, networking, and application development. This profile documents academic and  personal projects, independent technical work, and continued skill development. Constructive feedback and code reviews are welcome.
+Information Technology student with an interest in systems administration, networking, web and application development. This profile documents academic and  personal projects, independent technical work, and continued skill development. Constructive feedback and code reviews are welcome.
 </p>
 
 <p align="center">
