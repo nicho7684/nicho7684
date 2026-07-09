@@ -5,7 +5,7 @@
 <img src="assets/name.png" width="700" height="300">
 </p>
 <p align="center">
-Information Technology student with an interest in systems administration, networking, web and application development. This profile documents academic and  personal projects, independent technical work, and continued skill development. Constructive feedback and code reviews are welcome.
+Information Technology student with an interest in systems administration, networking, web and application development, and cybersecurity fundamentals. This profile documents academic and  personal projects, independent technical work, and continued skill development. Constructive feedback and code reviews are welcome.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Information Technology student with an interest in systems administration, netwo
 - 🐧 Running Arch Linux with Hyprland, deep in dotfiles and Wayland configuration
 - 🌐 Interested in self-hosting, homelab setups (Proxmox, Docker), and networking fundamentals
 - 💡 working on a collaborative project with a friend called Willem.
-- 📱 Other projects include web and App development projects,hardware maintenance and intergration
+- 📱 Other projects include web and App development projects, hardware maintenance, and integration
 - 📍 Based in Dar es Salaam, Tanzania
 
 ### Tech stack
@@ -48,13 +48,13 @@ Information Technology student with an interest in systems administration, netwo
 
 ### What I'm working on
 
-- 🔧 planning on Setting up a homelab with Proxmox and self-hosted services
-- 📡 Practicing network design — subnetting, router configuration, IP addressing
+- 🔧 planning on setting up a homelab with Proxmox and self-hosted services
+- 📡 Practicing network design  subnetting, router configuration, IP addressing
 - 📱 Validating app and web development
   
-### Pinned projects (comming soon)
+### Pinned projects (coming soon)
 
-Check out the pinned repositories below for my best work  including a Java OOP payroll system, my Arch Linux dotfiles, and ongoing networking labs, and many more.
+Check out the pinned repositories below for my best work,  including a Java OOP payroll system, my Arch Linux dotfiles, and ongoing networking labs, and many more.
 
 ---
 
